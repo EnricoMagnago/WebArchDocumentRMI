@@ -1,0 +1,5 @@
+rootProject.name = 'DocumentRMI'
+include 'Common'
+include 'Server'
+include 'Client'
+
